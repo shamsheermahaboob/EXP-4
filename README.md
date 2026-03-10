@@ -38,31 +38,46 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
-<img width="760" height="586" alt="image" src="https://github.com/user-attachments/assets/f49b758e-ae24-4fef-93fc-3ec1bb8efd93" />
-<img width="729" height="270" alt="image" src="https://github.com/user-attachments/assets/ba2ffbe3-9129-4c31-b919-37241dc3ce1e" />
+
+
+<img width="903" height="616" alt="image" src="https://github.com/user-attachments/assets/2263a462-18ed-4826-ab79-f0eb99e09e9c" />
+<img width="783" height="369" alt="image" src="https://github.com/user-attachments/assets/869f484d-0a00-4d4a-9978-6a4ec413abab" />
 
 
 Bridge rectifier with filter:
 
-<img width="768" height="527" alt="image" src="https://github.com/user-attachments/assets/09052fcc-5681-4ed7-9017-85a93bba017b" />
-<img width="725" height="253" alt="image" src="https://github.com/user-attachments/assets/a353689e-d03e-44f9-b589-8eed369287ea" />
+<img width="911" height="615" alt="image" src="https://github.com/user-attachments/assets/4e60ae67-0b25-4423-8875-184a1ed10244" />
 
+<img width="873" height="408" alt="image" src="https://github.com/user-attachments/assets/822290a9-9f2a-4544-9ab8-132ebe2ff861" />
 
 TABULAR COLUMN
 
+<img width="897" height="297" alt="image" src="https://github.com/user-attachments/assets/cf8138fe-217e-455c-baea-073617a71567" />
 
-<img width="737" height="214" alt="image" src="https://github.com/user-attachments/assets/8930d84c-2336-45aa-b492-91110c73fafe" />
+
 
 Rectifier without filter
+
+<img width="859" height="462" alt="image" src="https://github.com/user-attachments/assets/2eac2e4d-7f72-482f-9230-1c015b982c46" />
+
 TABULAR COLUMN
 
-<img width="765" height="183" alt="image" src="https://github.com/user-attachments/assets/af5fa1a6-533c-41e8-ad6d-02662211a9b0" />
+
+<img width="910" height="395" alt="image" src="https://github.com/user-attachments/assets/05a33eba-2121-444d-85d2-791a4741a61a" />
+
 
 Rectifier with filter
 
+
+<img width="914" height="397" alt="image" src="https://github.com/user-attachments/assets/c58370b1-c75c-4e40-89bd-727ec56ac48c" />
+
 WAVEFORM:
 
-<img width="777" height="731" alt="image" src="https://github.com/user-attachments/assets/3b566724-0439-4791-ac1d-919a7c93b6af" />
+<img width="760" height="505" alt="image" src="https://github.com/user-attachments/assets/94f32075-7571-4227-be9d-3aefc46159a0" />
+
+Model Graph:
+
+<img width="489" height="263" alt="image" src="https://github.com/user-attachments/assets/0214de83-74dc-40d1-8177-80d089c8bf63" />
 
 
 
